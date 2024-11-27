@@ -28,7 +28,7 @@ body {
 .skills-section h2 {
   font-weight: bold;
 
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-size: 44px;
   color: #e4e3ff;
    border-bottom: 3px solid red; 
@@ -66,11 +66,11 @@ body {
 }
 
 .skill-box i {
-  height: 120px;
-  width: 160px;
+  height: 130px;
+  width: 170px;
   font-size: 76px;
   color: #6c63ff;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .skill-title {
